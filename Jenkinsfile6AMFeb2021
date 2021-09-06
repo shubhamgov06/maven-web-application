@@ -44,7 +44,7 @@ node
  emailext body: '''Build Over - Scriptedway
 
  Regards,
- Mithun Software Solutions,
+ Shubham Sharma
  9980923226''', subject: 'Build Over - Scriptedway', to: 'shubh.nis@gmail.com'
  }
  
